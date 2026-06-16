@@ -1,0 +1,11 @@
+--- Packet Captured ---
+Source IP: 192.168.1.5
+Destination IP: 142.250.183.78
+Protocol: 6
+IP / TCP 192.168.1.5:51234 > 142.250.183.78:https
+
+--- Packet Captured ---
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: 17
+IP / UDP 192.168.1.5:53421 > 8.8.8.8:domain
